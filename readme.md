@@ -5,7 +5,7 @@ This is my notes repo reading "_A Programmer's Geometry_" by Adrian Bowyer and J
 Example in the book is given in FORTRAN 77, I'm taking notes and converting the sample in JavaScript.
 
 ### 1. Points and lines
-1.1 Distance between Two Points
+1.1 [Distance between Two Points](https://github.com/kosamari/Geometry/blob/master/Distance_between_Two_Points.md)
 1.2 Equations of a Line
 1.3 Distance from a Point to a Line
 1.4 Angle between Two Lines
